@@ -1,4 +1,4 @@
-# <p align="center"> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm **Muhammad Safi**
+# <p align="center"> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm **Muzammil Mehmood**
 
 A dedicated software engineer 🧑‍💻 with a passion for Python. My expertise spans Django, FastAPI, Flask, LLMs, MLops, CI/CD, and much more. I thrive on contributing to open-source projects and excel in using Langchain, LlamaIndex, and autogen. Let's create something extraordinary together! 🚀
  </p>
@@ -15,7 +15,7 @@ A dedicated software engineer 🧑‍💻 with a passion for Python. My expertis
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammilmehmood&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuzammilMeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safimuhammad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -84,11 +84,5 @@ A dedicated software engineer 🧑‍💻 with a passion for Python. My expertis
 </div>
 
 <p align="center">
-
-
-<br></br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=safimuhammad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
